@@ -1,3 +1,3 @@
-### Hey! My name is Matheus and I am specializing in Front-end web development, mainly with HTML5, CSS, JavaScript, and Python, but I am always willing to learn more tools and frameworks. I also make use of the React library for my projects.
+### Hey! My name is Matheus and I am currently majoring in Computer Science. I am mostly interest in Frontend and Game development, the latter being more of a hobby. Currently learning C# while using Unity and also PHP for future web development projects, but I have also studied Python and Javascript in the past, along with some other web dev tools (Html, Css, React).
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatCalixto&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-###  Have a look at some of my projects below:
+###  Here are a few of my projects:

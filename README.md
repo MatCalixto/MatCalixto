@@ -18,5 +18,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=matcalixto&show_icons=true&locale=en&layout=compact" alt="matcalixto" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=matcalixto&show_icons=true&locale=en" alt="matcalixto" /></p>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatCalixto)](https://github.com/anuraghazra/github-readme-stats)
